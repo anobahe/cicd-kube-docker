@@ -7,8 +7,8 @@ pipeline {
     }
 */
     environment {
-        registery = "anobahe/vproappdock"
-        registeryCredential = "dockerhub"
+        registry = "anobahe/vproappdock"
+        registryCredential = "dockerhub"
     }
 
     stages{
